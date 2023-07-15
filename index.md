@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-(1)  I was born in Hokkaido in Apr 1993. 
+(1) I was born in Hokkaido in Apr 1993. 
 
 (2) I am a corporate researcher of organic materials R&D in Tokyo 
 
